@@ -2,4 +2,6 @@ body {
   color: #2B2620;
   background-color: #FAC8C8;
   font-family: Georgia, serif;
+  .subtitle { color: red; }
+  #page-title { font-size: 48px; color: navy; }
 }
