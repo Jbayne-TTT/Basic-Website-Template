@@ -11,5 +11,7 @@ body {
   #page-title { font-size: 48px; color: navy; }
   #about-box {
   width: 600px;
+margin: 0 auto;
+}
 
 }
