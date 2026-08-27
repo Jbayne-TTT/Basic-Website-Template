@@ -3,5 +3,10 @@ body {
   background-color: #FAC8C8;
   font-family: Georgia, serif;
   .subtitle { color: red; }
+.subtitle {
+  border: 2px solid black;
+  padding: 20px;
+  margin: 40px;
+}
   #page-title { font-size: 48px; color: navy; }
 }
