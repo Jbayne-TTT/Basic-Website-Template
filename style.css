@@ -14,5 +14,11 @@ body {
 margin: 0 auto;
 text-align: center;
 }
+.favorites-list {
+  margin-bottom: 40px;
+}
+#my-table {
+  margin-bottom: 40px;
+}
 
 }
