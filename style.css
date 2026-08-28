@@ -1,18 +1,18 @@
 body {
   color: #2B2620;
   background-color: #FAC8C8;
-  font-family: Georgia, serif;
+  font-family: Georgia, serif;}
   .box { color: red; }
 .box {
   border: 2px solid black;
   padding: 20px;
   margin: 40px;
 }
-  #page-title { font-size: 48px; color: navy; }
+  #name { font-size: 48px; color: navy; }
   #about-box {
   width: 600px;
 margin: 0 auto;
-text-align: center;az
+text-align: center;
   }
   #profile-image {
   padding: 15px;
@@ -21,6 +21,4 @@ text-align: center;az
   padding: 10px;
   border: 2px solid #8A6D3B;
   margin-bottom: 40px;
-}
-#
 }
