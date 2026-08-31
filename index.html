@@ -7,7 +7,7 @@
 <body>
   <h1>Welcome to my portfolio!</h1>
   <p><a href="example copy.html">Go to my example page.</a></p>
-  <button id="colorButton" onclick="changeColor()">
+  <button id="Ilikebuttons" onclick="changeColor()">
   Click me
 </button>
 
@@ -16,9 +16,17 @@
 </body>
 <script>
   function changeColor() {
-    var myButton = document.getElementById("colorButton");
-    myButton.style.backgroundColor = "orange";
+    var myButton = document.getElementById("Ilikebuttons");
+    myButton.style.backgroundColor = "purple";
   }
+  <button id="bgButton" onclick="changeBackground()">
+  Change the background
+</button>
+ 
+function changeBackground() {
+  document.body.style.backgroundColor = "lightblue";
+}
+
 </script>
 
 </html>
